@@ -1,0 +1,5 @@
+Este es un ejemplo de archivo de texto creado en vs code para ser abierto y modificado en la terminal de git
+
+xd
+
+Ya no se qué más poner aquí. 
