@@ -48,6 +48,12 @@ body{
     padding: 1em;
 }
 
+#post img {
+    width: 100%;
+    align-items: center;
+    align-content: center;
+}
+
 #footer {
     background: #777;
     color: white;
