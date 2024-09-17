@@ -2,4 +2,4 @@ Este es un ejemplo de archivo de texto creado en vs code para ser abierto y modi
 
 xd
 
-Ya no se qué más poner aquí. 
+Ya no se qué más poner aquí. Este es un cambio que hice al final, para modificar el archivo a proposito
